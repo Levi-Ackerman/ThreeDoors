@@ -1,4 +1,4 @@
-package com.ninegame.lee;
+package edu.scut.lee;
 
 /**
  * Created by Administrator on 2016/1/18 018.

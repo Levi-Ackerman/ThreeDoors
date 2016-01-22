@@ -1,4 +1,4 @@
-package com.ninegame.lee;
+package edu.scut.lee;
 
 import java.util.ArrayList;
 import java.util.List;
